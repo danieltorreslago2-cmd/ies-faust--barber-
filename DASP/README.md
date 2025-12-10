@@ -1,4 +1,4 @@
-🔧# Aplicated Digilitation in the Productive Sistem
+# Aplicated Digilitation in the Productive Sistem 🔧 
 ### Explication of the subject
 In this subject we learn how the economi is aplicated in the digital sector
 ### Teacher
