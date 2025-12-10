@@ -2,7 +2,7 @@
 ### Explication of the subject
 In this subject we learn how the economi is aplicated in the digital sector
 ### Teacher
-Toni Gomez Gomez
+Juan Antonio Gomez Gomez
 ### Course
 2SMX
 ### Link
