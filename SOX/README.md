@@ -1,4 +1,4 @@
-💩# Operative sistems in net
+💩 # Operative sistems in net
 ### Explication of the subject
 In this signature we learn about how to configure operative systems
 ### Teacher 
